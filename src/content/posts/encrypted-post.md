@@ -1,9 +1,9 @@
 ---
-title: Encrypted Post
+title: 加密帖子测试
 published: 2024-01-15
 description: This is an article for testing the page encryption feature
 encrypted: true
-pinned: true
+pinned: false
 password: "123456"
 alias: "encrypted-example"
 tags: ["Test", "Encryption"]

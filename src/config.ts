@@ -369,7 +369,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "Bilibili",
 			icon: "fa7-brands:bilibili",
-			url: "https://space.bilibili.com/701864046",
+			url: "https://www.bilibili.com/?spm_id_from=333.1387.0.0",
 		},
 		{
 			name: "Gitee",

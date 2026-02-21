@@ -1,9 +1,10 @@
 ---
-title: Simple Guides for Mizuki
+title: Mizuki使用说明（原作者保留）
 published: 2024-04-01
+pinned: true
 description: "How to use this blog template."
 image: "./cover.webp"
-tags: ["Mizuki", "Blogging", "Customization"]
+tags: ["Mizuki", "Blogging"]
 category: Guides
 draft: false
 ---
